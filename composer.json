@@ -2,6 +2,7 @@
     "name": "glenscott/url-normalizer",
     "description": "Syntax based normalization of URL's",
     "license": "MIT",
+    "version": "1.4.0",
     "authors": [
         {
             "name": "Glen Scott",
